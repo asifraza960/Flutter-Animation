@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_animations/AnimatedOpacity/fadian.dart';
+import 'package:flutter_animations/TweenAnimation/animatedTween.dart';
+import 'package:flutter_animations/explicitedAnimation/AnimatedHomepage.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: AnimatedOpacityExample(),
+      home: Animatedhomepage(),
     );
   }
 }
