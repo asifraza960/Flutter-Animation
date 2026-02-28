@@ -1,5 +1,16 @@
 # 🚀 Flutter animations
+# . Animation Widgets
 
+AnimatedContainer
+AnimatedCrossFade
+
+# SingleTicketProvider 
+
+AnimatedCrossFade
+
+Hero
+
+TweenAnimationBuilder
 # AnimatedCrossFade
 <img width="1920" height="1440" alt="830shots_so" src="https://github.com/user-attachments/assets/0273612f-4bf6-4e3d-be7c-d079a4663f44" />
 
